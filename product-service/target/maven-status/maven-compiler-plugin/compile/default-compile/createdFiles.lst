@@ -1,0 +1,11 @@
+com\example\projectservice\model\Product.class
+com\example\projectservice\ProjectServiceApplication.class
+com\example\projectservice\dto\ProductResponse.class
+com\example\projectservice\dto\ProductRequest$ProductRequestBuilder.class
+com\example\projectservice\repository\ProductRepository.class
+com\example\projectservice\controller\ProductController.class
+com\example\projectservice\util\DataLoader.class
+com\example\projectservice\dto\ProductResponse$ProductResponseBuilder.class
+com\example\projectservice\service\ProductService.class
+com\example\projectservice\model\Product$ProductBuilder.class
+com\example\projectservice\dto\ProductRequest.class

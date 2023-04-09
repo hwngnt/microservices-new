@@ -1,0 +1,8 @@
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\dto\ProductRequest.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\repository\ProductRepository.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\util\DataLoader.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\dto\ProductResponse.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\service\ProductService.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\model\Product.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\ProjectServiceApplication.java
+D:\microservices-new\product-service\src\main\java\com\example\projectservice\controller\ProductController.java
